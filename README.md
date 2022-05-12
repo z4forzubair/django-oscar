@@ -1,5 +1,7 @@
 # Django Oscar[3.1] Setup
 
+![image](https://user-images.githubusercontent.com/42717176/168178197-a3085a76-9632-4d13-9bc3-83c522312c37.png)
+
 ## Stack Details
 
 Python = 3.8
